@@ -5,7 +5,7 @@ export const educationEvents = [
         institution: "Birmingham City University, UK",
         year: "2023 - Present",
         description: "Currently pursuing undergraduate degree in Software Engineering at Birmingham City University.",
-        image: "/hashen.png",
+        image: "/jlpt.png",
         side: "left"
     },
     {

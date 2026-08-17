@@ -41,7 +41,7 @@ const Hero = () => {
                 <div className="hero-content">
                     <div className="profile-image-container">
                         <img
-                            src="/profile.png"
+                            src="/jlpt.png"
                             alt="Hashen Liyanaarachchi"
                             className="profile-image"
                             onError={(e) => {
