@@ -62,7 +62,7 @@ const Hero = () => {
                         <a href="#contact" className="btn btn-primary">
                             Hire Me <FiMail size={16} />
                         </a>
-                        <a href="/Hashen_CV.pdf" className="btn btn-outline" download>
+                        <a href="/Hashen_Liyanaarachchi_CV.pdf" className="btn btn-outline" download="Hashen_Liyanaarachchi_CV.pdf">
                             Download CV <FiDownload size={16} />
                         </a>
                     </div>
